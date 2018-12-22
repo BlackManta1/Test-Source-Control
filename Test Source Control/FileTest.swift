@@ -12,6 +12,7 @@ class test{
     
     func salut(){
         print("Salut les loups, comment ca va ? Cest nikos aliagas.")
+        print("Au revoir")
     }
     
 }
