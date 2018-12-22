@@ -11,7 +11,7 @@ import Foundation
 class test{
     
     func salut(){
-        print("Salut les loups")
+        print("Salut les loups, boloss !")
     }
     
     
