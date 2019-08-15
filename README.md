@@ -1,2 +1,2 @@
 # Test-Source-Control
-Learn how use Xcode and GitHub
+Learn how to use Xcode and GitHub
